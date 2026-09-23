@@ -1,0 +1,3 @@
+Open this folder in Android Studio (Ladybug or newer).
+Android Studio will generate/use the local Gradle tooling and download dependencies.
+Then choose Build > Build APK(s).
